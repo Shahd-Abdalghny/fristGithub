@@ -1,0 +1,14 @@
+div {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #eee;
+    border: 1px solid black;
+}
+h1 {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin: auto;
+}
